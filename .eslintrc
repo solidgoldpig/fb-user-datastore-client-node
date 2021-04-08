@@ -1,0 +1,3 @@
+{
+  "extends": "@solidgoldpig/eslint-config-fb"
+}
